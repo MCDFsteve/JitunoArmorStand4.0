@@ -1,0 +1,12 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "dfsteve_armor_item5"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "dfsteve:armor_item5"
+        }
+    }
+}

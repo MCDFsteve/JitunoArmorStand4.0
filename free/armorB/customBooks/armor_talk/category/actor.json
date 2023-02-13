@@ -1,0 +1,7 @@
+{
+    "title": "调试扳手",
+    "content": "用于给逼真盔甲架切换对应肢体动作。\n和潜行切换姿势共存。",
+    "icon":"textures/items/armor_action",
+    "sortnum":"2",
+    "isLocked": false
+}

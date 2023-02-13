@@ -1,0 +1,22 @@
+{
+    "parent": "items",
+    "icon": "textures/items/armor_addaddcut",
+    "title": "拆线剪刀II",
+    "sortnum":"12",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "可以让盔甲架的大小变得最小",
+            "image": "textures/items/armor_addaddcut",
+            "info": "拆线剪刀II"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "拆线剪刀I+铁锭",
+            "image": "textures/craft/armor_cut3",
+            "info": "拆线剪刀II"
+        }
+    ]    
+}

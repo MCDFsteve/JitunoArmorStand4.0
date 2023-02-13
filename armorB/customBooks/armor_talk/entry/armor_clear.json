@@ -1,0 +1,22 @@
+{
+    "parent": "items",
+    "icon": "textures/items/armor_clear",
+    "title": "针线包",
+    "sortnum":"2",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "重置盔甲架的大小为默认大小",
+            "image": "textures/items/armor_clear",
+            "info": "针线包"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "三根线+铁锭",
+            "image": "textures/craft/armor_num",
+            "info": "针线包"
+        }
+    ]    
+}

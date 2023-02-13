@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "dfsteve:armor2"
+        },
+        "ingredients": [
+            {
+                "count": 1,
+                "data": 0,
+                "item": "minecraft:armor_stand"
+            }
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "dfsteve:armor_alex"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

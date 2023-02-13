@@ -1,0 +1,7 @@
+{
+    "title": "更新日志",
+    "content": "本组件的更新日志。",
+    "icon":"textures/items/armor_talk",
+    "sortnum":"9",
+    "isLocked": false
+}

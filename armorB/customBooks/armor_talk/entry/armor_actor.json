@@ -1,0 +1,22 @@
+{
+    "parent": "actor",
+    "icon": "textures/items/armor_action",
+    "title": "调试扳手",
+    "sortnum":"0",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "用于调整盔甲架姿势的道具。必须在工作台转换成对应姿势的调试扳手以后才能使用",
+            "image": "textures/items/armor_action",
+            "info": "调试扳手"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "四个铁锭或者一个带姿势的调试扳手",
+            "image": "textures/craft/armor_actor",
+            "info": "调试扳手"
+        }
+    ]    
+}

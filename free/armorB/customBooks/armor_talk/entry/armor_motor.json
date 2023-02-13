@@ -1,0 +1,22 @@
+{
+    "parent": "items",
+    "icon": "textures/items/armor_motor",
+    "title": "动力马达",
+    "sortnum":"4",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "让盔甲架可以自己活动",
+            "image": "textures/items/armor_motor",
+            "info": "动力马达"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "四块铁锭+一个红石粉+四个铁粒",
+            "image": "textures/craft/armor_motor",
+            "info": "动力马达"
+        }
+    ]    
+}

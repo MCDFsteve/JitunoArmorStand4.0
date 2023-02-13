@@ -1,0 +1,17 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:foil": false,
+            "minecraft:max_stack_size": 64,
+            "netease:egg": {
+                "entity": "dfsteve:armor_alex"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "dfsteve:armor_alex",
+            "register_to_create_menu": true
+        }
+    }
+}

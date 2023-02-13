@@ -1,0 +1,4249 @@
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_cut"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "cut",
+    "play_sounds": "shear"
+  },
+    "use_item": false,
+    "hurt_item": 1,
+    "interact_text": "缩小体型"
+},
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_addcut"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "cut1",
+    "play_sounds": "shear"
+  },
+    "use_item": false,
+    "hurt_item": 1,
+    "interact_text": "缩小体型+"
+},
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_addaddcut"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "cut2",
+    "play_sounds": "shear"
+  },
+    "use_item": false,
+    "hurt_item": 1,
+    "interact_text": "缩小体型++"
+},
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_wool"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "wool",
+    "play_sounds": "use.use.cloth"
+  },
+    "use_item": false,
+    "hurt_item": 1,
+    "interact_text": "增大体型"
+},
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_addwool"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "wool1",
+    "play_sounds": "use.use.cloth"
+  },
+    "use_item": false,
+    "hurt_item": 1,
+    "interact_text": "增大体型+"
+},
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_addaddwool"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "wool2",
+    "play_sounds": "use.use.cloth"
+  },
+    "use_item": false,
+    "hurt_item": 1,
+    "interact_text": "增大体型++"
+},
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_addaddaddwool"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "wool3",
+    "play_sounds": "use.use.cloth"
+  },
+    "use_item": false,
+    "hurt_item": 1,
+    "interact_text": "增大体型+++"
+},
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_titan"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "titan",
+    "play_sounds": "use.use.cloth"
+  },
+    "use_item": false,
+    "hurt_item": 1,
+    "interact_text": "巨人化"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_20"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "minecraft:t"
+  },
+    "use_item": true,
+    "interact_text": "更换皮肤"
+}
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_24"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "minecraft:x"
+  },
+    "use_item": true,
+    "interact_text": "更换皮肤"
+},
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_25"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "minecraft:y"
+  },
+    "use_item": true,
+    "interact_text": "更换皮肤"
+},
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_26"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "minecraft:z"
+  },
+    "use_item": true,
+    "interact_text": "更换皮肤"
+},
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_27"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "minecraft:za"
+  },
+    "use_item": true,
+    "interact_text": "更换皮肤"
+},
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_28"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "minecraft:zb"
+  },
+    "use_item": true,
+    "interact_text": "更换皮肤"
+},
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_29"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "minecraft:zc"
+  },
+    "use_item": true,
+    "interact_text": "更换皮肤"
+},
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_30"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "minecraft:zd"
+  },
+    "use_item": true,
+    "interact_text": "更换皮肤"
+},
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_31"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "minecraft:ze"
+  },
+    "use_item": true,
+    "interact_text": "更换皮肤"
+},
+{
+  "on_interact": {
+    "filters": {
+        "all_of": [
+          {
+            "any_of": [
+              { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_32"}
+            ]
+          }
+         
+        ]
+    },
+    "event": "minecraft:zf"
+  },
+    "use_item": true,
+    "interact_text": "更换皮肤"
+},
+{
+    "on_interact": {
+      "filters": {
+          "all_of": [
+            {
+              "any_of": [
+                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_clear"}
+              ]
+            }
+           
+          ]
+      },
+      "event": "clear",
+      "play_sounds": "cloth"
+    },
+      "use_item": false,
+      "hurt_item": 1,
+      "interact_text": "复原体型"
+      
+  },
+  {
+    "on_interact": {
+      "filters": {
+          "all_of": [
+            {
+              "any_of": [
+                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action0"}
+              ]
+            }
+           
+          ]
+      },
+      "event": "action0",
+      "play_sounds": "cloth"
+    },
+      "use_item": false,
+      "hurt_item": 1,
+      "interact_text": "切换姿势：站立"
+  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action3"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action3",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：坐"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action4"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action4",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：肃立"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action5"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action5",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：挥舞"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action6"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action6",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：荣耀"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action7"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action7",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：拥抱"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action8"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action8",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：欢迎"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action10"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action10",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：僵尸"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action11"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action11",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：康康舞a"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action12"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action12",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：康康舞b"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action13"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action13",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：英雄"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action14"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action14",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：雅典娜"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action15"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action15",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：立正"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action16"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action16",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：耍酷"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action17"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action17",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：卖萌"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action18"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action18",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：打招呼"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action19"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action19",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：jojo立"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action20"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action20",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：不要停下来"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action21"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action21",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：异议！！"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action22"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action22",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：潜行"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action23"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action23",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：睡觉"
+                  },
+                  {
+                    "on_interact": {
+                      "filters": {
+                          "all_of": [
+                            {
+                              "any_of": [
+                                { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action24"}
+                              ]
+                            }
+                           
+                          ]
+                      },
+                      "event": "action24",
+                      "play_sounds": "cloth"
+                    },
+                      "use_item": false,
+                      "hurt_item": 1,
+                      "interact_text": "切换姿势：侧躺"
+                  },
+                  "dfsteve_armor_action": {
+                    "textures": "textures/items/dfsteve_armor_action"
+                },
+                  "dfsteve_armor_action0": {
+                    "textures": "textures/items/dfsteve_armor_action0"
+                },
+                "dfsteve_armor_action3": {
+                  "textures": "textures/items/dfsteve_armor_action0"
+              },
+              "dfsteve_armor_action4": {
+                  "textures": "textures/items/dfsteve_armor_action0"
+              },
+              "dfsteve_armor_action5": {
+                  "textures": "textures/items/dfsteve_armor_action0"
+              },
+              "dfsteve_armor_action6": {
+                  "textures": "textures/items/dfsteve_armor_action0"
+              },
+              "dfsteve_armor_action7": {
+                  "textures": "textures/items/dfsteve_armor_action0"
+              },
+                "dfsteve_armor_action8": {
+                    "textures": "textures/items/dfsteve_armor_action0"
+                },
+                "dfsteve_armor_action11": {
+                    "textures": "textures/items/dfsteve_armor_action0"
+                },
+                "dfsteve_armor_action12": {
+                    "textures": "textures/items/dfsteve_armor_action0"
+                },
+                "dfsteve_armor_action13": {
+                    "textures": "textures/items/dfsteve_armor_action0"
+                },
+                "dfsteve_armor_action14": {
+                    "textures": "textures/items/dfsteve_armor_action0"
+                },
+                "dfsteve_armor_action15": {
+                    "textures": "textures/items/dfsteve_armor_action0"
+                },
+                "dfsteve_armor_action16": {
+                    "textures": "textures/items/dfsteve_armor_action0"
+                },
+                "dfsteve_armor_action17": {
+                    "textures": "textures/items/dfsteve_armor_action0"
+                },
+                "dfsteve_armor_action18": {
+                    "textures": "textures/items/dfsteve_armor_action0"
+                },
+                "dfsteve_armor_action19": {
+                    "textures": "textures/items/dfsteve_armor_action0"
+                },
+                "dfsteve_armor_action20": {
+                    "textures": "textures/items/dfsteve_armor_action0"
+                },
+                "bata": {
+                  "minecraft:mark_variant": {
+                    "value": 21
+                    },
+                    "minecraft:interact": [
+                      {
+                        "filters": {
+                          "all_of": [
+                            { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_steve"},
+                            { "test" :  "has_component", "operator": "!=", "value" :  "minecraft:transformation"}
+                          ]
+                        },
+                        "event": "切换模型",
+                        "target": "self",
+                        "use_item": true,
+                        "hurt_item": 1,
+                        "play_sounds": "explode",
+                        "particle_on_start": { "particle_type": "largeexplode", "particle_y_offset": 1, "particle_offset_towards_interactor": true },
+                        "interact_text": "切换模型"
+                      },     
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_theworld"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "theworld",
+                          "play_sounds": "shear"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "固定姿势"
+                      },               
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_motor"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "motor",
+                          "play_sounds": "explode"
+                        },
+                          "use_item": true,
+                          "interact_text": "安装马达"
+                      },  
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_cut"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "cut",
+                          "play_sounds": "shear"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "缩小体型"
+                      },               
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_wool"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "wool",
+                          "play_sounds": "use.use.cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "增大体型"
+                      },
+    {
+        "on_interact": {
+          "filters": {
+              "all_of": [
+                {
+                  "any_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_clear"}
+                  ]
+                }
+               
+              ]
+          },
+          "event": "clear",
+          "play_sounds": "cloth"
+        },
+          "use_item": false,
+          "hurt_item": 1,
+          "interact_text": "复原体型"
+      },
+                     {
+        "on_interact": {
+          "filters": {
+              "all_of": [
+                {
+                  "any_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action0"}
+                  ]
+                }
+               
+              ]
+          },
+          "event": "action0",
+          "play_sounds": "cloth"
+        },
+          "use_item": false,
+          "hurt_item": 1,
+          "interact_text": "切换姿势：站立"
+      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action3"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action3",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：坐"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action4"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action4",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：肃立"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action5"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action5",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：挥舞"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action6"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action6",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：荣耀"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action7"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action7",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：拥抱"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action8"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action8",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：欢迎"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action10"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action10",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：僵尸"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action11"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action11",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：康康舞a"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action12"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action12",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：康康舞b"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action13"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action13",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：英雄"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action14"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action14",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：雅典娜"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action15"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action15",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：立正"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action16"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action16",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：耍酷"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action17"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action17",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：卖萌"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action18"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action18",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：打招呼"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action19"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action19",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：jojo立"
+                      },
+                       {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action20"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action20",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：不要停下来"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action21"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action21",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：异议！！"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action22"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action22",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：潜行"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action23"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action23",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：睡觉"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action24"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action24",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：侧躺"
+                      },
+                      {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_1"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:a"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_4"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:d"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_3"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:c"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_5"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:e"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_6"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:f"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_7"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:g"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_8"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:h"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_9"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:i"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_10"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:j"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_11"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:k"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_12"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:l"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_13"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:m"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_14"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:n"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_15"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:o"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_16"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:p"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_17"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:q"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_18"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:r"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_2"}
+                                 
+                                ]
+                            },
+                            "event": "minecraft:b"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "any_of": [
+                                {
+                                  "all_of": [
+                                    { "test" :  "is_family", "subject" : "other", "value" :  "player" },
+                       {"test": "is_sneaking", "subject": "player", "operator": "equals", "value": true }
+    
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "sneak"
+                        },
+                          "interact_text": "摆姿势"
+                      }
+                    ]
+                },
+                "sneak": {
+                  "minecraft:mark_variant": {
+                    "value": 22
+                    },
+                    "minecraft:interact": [
+                      {
+                        "filters": {
+                          "all_of": [
+                            { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_steve"},
+                            { "test" :  "has_component", "operator": "!=", "value" :  "minecraft:transformation"}
+                          ]
+                        },
+                        "event": "切换模型",
+                        "target": "self",
+                        "use_item": true,
+                        "hurt_item": 1,
+                        "play_sounds": "explode",
+                        "particle_on_start": { "particle_type": "largeexplode", "particle_y_offset": 1, "particle_offset_towards_interactor": true },
+                        "interact_text": "切换模型"
+                      },     
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_theworld"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "theworld",
+                          "play_sounds": "shear"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "固定姿势"
+                      },               
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_motor"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "motor",
+                          "play_sounds": "explode"
+                        },
+                          "use_item": true,
+                          "interact_text": "安装马达"
+                      },  
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_cut"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "cut",
+                          "play_sounds": "shear"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "缩小体型"
+                      },               
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_wool"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "wool",
+                          "play_sounds": "use.use.cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "增大体型"
+                      },
+    {
+        "on_interact": {
+          "filters": {
+              "all_of": [
+                {
+                  "any_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_clear"}
+                  ]
+                }
+               
+              ]
+          },
+          "event": "clear",
+          "play_sounds": "cloth"
+        },
+          "use_item": false,
+          "hurt_item": 1,
+          "interact_text": "复原体型"
+      },
+                     {
+        "on_interact": {
+          "filters": {
+              "all_of": [
+                {
+                  "any_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action0"}
+                  ]
+                }
+               
+              ]
+          },
+          "event": "action0",
+          "play_sounds": "cloth"
+        },
+          "use_item": false,
+          "hurt_item": 1,
+          "interact_text": "切换姿势：站立"
+      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action3"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action3",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：坐"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action4"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action4",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：肃立"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action5"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action5",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：挥舞"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action6"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action6",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：荣耀"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action7"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action7",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：拥抱"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action8"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action8",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：欢迎"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action10"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action10",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：僵尸"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action11"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action11",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：康康舞a"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action12"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action12",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：康康舞b"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action13"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action13",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：英雄"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action14"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action14",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：雅典娜"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action15"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action15",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：立正"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action16"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action16",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：耍酷"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action17"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action17",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：卖萌"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action18"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action18",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：打招呼"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action19"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action19",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：jojo立"
+                      },
+                       {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action20"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action20",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：不要停下来"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action21"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action21",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：异议！！"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action22"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action22",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：潜行"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action23"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action23",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：睡觉"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action24"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action24",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：侧躺"
+                      },
+                      {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_1"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:a"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_4"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:d"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_3"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:c"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_5"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:e"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_6"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:f"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_7"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:g"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_8"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:h"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_9"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:i"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_10"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:j"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_11"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:k"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_12"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:l"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_13"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:m"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_14"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:n"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_15"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:o"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_16"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:p"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_17"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:q"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_18"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:r"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_2"}
+                                 
+                                ]
+                            },
+                            "event": "minecraft:b"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "any_of": [
+                                {
+                                  "all_of": [
+                                    { "test" :  "is_family", "subject" : "other", "value" :  "player" },
+                       {"test": "is_sneaking", "subject": "player", "operator": "equals", "value": true }
+    
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "sleep"
+                        },
+                          "interact_text": "摆姿势"
+                      }
+                    ]
+                },
+                "sleep": {
+                  "minecraft:mark_variant": {
+                    "value": 23
+                    },
+                    "minecraft:interact": [
+                      {
+                        "filters": {
+                          "all_of": [
+                            { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_steve"},
+                            { "test" :  "has_component", "operator": "!=", "value" :  "minecraft:transformation"}
+                          ]
+                        },
+                        "event": "切换模型",
+                        "target": "self",
+                        "use_item": true,
+                        "hurt_item": 1,
+                        "play_sounds": "explode",
+                        "particle_on_start": { "particle_type": "largeexplode", "particle_y_offset": 1, "particle_offset_towards_interactor": true },
+                        "interact_text": "切换模型"
+                      },     
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_theworld"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "theworld",
+                          "play_sounds": "shear"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "固定姿势"
+                      },               
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_motor"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "motor",
+                          "play_sounds": "explode"
+                        },
+                          "use_item": true,
+                          "interact_text": "安装马达"
+                      },  
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_cut"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "cut",
+                          "play_sounds": "shear"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "缩小体型"
+                      },               
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_wool"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "wool",
+                          "play_sounds": "use.use.cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "增大体型"
+                      },
+    {
+        "on_interact": {
+          "filters": {
+              "all_of": [
+                {
+                  "any_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_clear"}
+                  ]
+                }
+               
+              ]
+          },
+          "event": "clear",
+          "play_sounds": "cloth"
+        },
+          "use_item": false,
+          "hurt_item": 1,
+          "interact_text": "复原体型"
+      },
+                     {
+        "on_interact": {
+          "filters": {
+              "all_of": [
+                {
+                  "any_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action0"}
+                  ]
+                }
+               
+              ]
+          },
+          "event": "action0",
+          "play_sounds": "cloth"
+        },
+          "use_item": false,
+          "hurt_item": 1,
+          "interact_text": "切换姿势：站立"
+      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action3"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action3",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：坐"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action4"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action4",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：肃立"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action5"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action5",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：挥舞"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action6"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action6",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：荣耀"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action7"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action7",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：拥抱"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action8"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action8",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：欢迎"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action10"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action10",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：僵尸"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action11"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action11",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：康康舞a"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action12"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action12",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：康康舞b"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action13"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action13",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：英雄"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action14"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action14",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：雅典娜"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action15"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action15",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：立正"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action16"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action16",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：耍酷"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action17"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action17",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：卖萌"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action18"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action18",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：打招呼"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action19"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action19",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：jojo立"
+                      },
+                       {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action20"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action20",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：不要停下来"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action21"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action21",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：异议！！"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action22"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action22",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：潜行"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action23"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action23",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：睡觉"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action24"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action24",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：侧躺"
+                      },
+                      {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_1"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:a"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_4"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:d"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_3"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:c"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_5"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:e"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_6"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:f"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_7"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:g"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_8"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:h"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_9"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:i"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_10"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:j"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_11"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:k"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_12"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:l"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_13"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:m"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_14"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:n"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_15"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:o"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_16"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:p"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_17"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:q"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_18"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:r"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_2"}
+                                 
+                                ]
+                            },
+                            "event": "minecraft:b"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "any_of": [
+                                {
+                                  "all_of": [
+                                    { "test" :  "is_family", "subject" : "other", "value" :  "player" },
+                       {"test": "is_sneaking", "subject": "player", "operator": "equals", "value": true }
+    
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "sleep2"
+                        },
+                          "interact_text": "摆姿势"
+                      }
+                    ]
+                },
+                "sleep2": {
+                  "minecraft:mark_variant": {
+                    "value": 24
+                    },
+                    "minecraft:interact": [
+                      {
+                        "filters": {
+                          "all_of": [
+                            { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_steve"},
+                            { "test" :  "has_component", "operator": "!=", "value" :  "minecraft:transformation"}
+                          ]
+                        },
+                        "event": "切换模型",
+                        "target": "self",
+                        "use_item": true,
+                        "hurt_item": 1,
+                        "play_sounds": "explode",
+                        "particle_on_start": { "particle_type": "largeexplode", "particle_y_offset": 1, "particle_offset_towards_interactor": true },
+                        "interact_text": "切换模型"
+                      },     
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_theworld"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "theworld",
+                          "play_sounds": "shear"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "固定姿势"
+                      },               
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_motor"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "motor",
+                          "play_sounds": "explode"
+                        },
+                          "use_item": true,
+                          "interact_text": "安装马达"
+                      },  
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_cut"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "cut",
+                          "play_sounds": "shear"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "缩小体型"
+                      },               
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_wool"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "wool",
+                          "play_sounds": "use.use.cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "增大体型"
+                      },
+    {
+        "on_interact": {
+          "filters": {
+              "all_of": [
+                {
+                  "any_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_clear"}
+                  ]
+                }
+               
+              ]
+          },
+          "event": "clear",
+          "play_sounds": "cloth"
+        },
+          "use_item": false,
+          "hurt_item": 1,
+          "interact_text": "复原体型"
+      },
+                     {
+        "on_interact": {
+          "filters": {
+              "all_of": [
+                {
+                  "any_of": [
+                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action0"}
+                  ]
+                }
+               
+              ]
+          },
+          "event": "action0",
+          "play_sounds": "cloth"
+        },
+          "use_item": false,
+          "hurt_item": 1,
+          "interact_text": "切换姿势：站立"
+      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action3"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action3",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：坐"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action4"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action4",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：肃立"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action5"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action5",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：挥舞"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action6"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action6",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：荣耀"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action7"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action7",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：拥抱"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action8"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action8",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：欢迎"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action10"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action10",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：僵尸"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action11"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action11",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：康康舞a"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action12"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action12",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：康康舞b"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action13"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action13",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：英雄"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action14"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action14",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：雅典娜"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action15"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action15",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：立正"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action16"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action16",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：耍酷"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action17"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action17",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：卖萌"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action18"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action18",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：打招呼"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action19"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action19",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：jojo立"
+                      },
+                       {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action20"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action20",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：不要停下来"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action21"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action21",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：异议！！"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action22"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action22",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：潜行"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action23"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action23",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：睡觉"
+                      },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "all_of": [
+                                {
+                                  "any_of": [
+                                    { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_action24"}
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "action24",
+                          "play_sounds": "cloth"
+                        },
+                          "use_item": false,
+                          "hurt_item": 1,
+                          "interact_text": "切换姿势：侧躺"
+                      },
+                      {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_1"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:a"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_4"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:d"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_3"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:c"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_5"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:e"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_6"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:f"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_7"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:g"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_8"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:h"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_9"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:i"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_10"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:j"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_11"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:k"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_12"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:l"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_13"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:m"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_14"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:n"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_15"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:o"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_16"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:p"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_17"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:q"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  {
+                                    "any_of": [
+                                      { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_18"}
+                                    ]
+                                  }
+                                 
+                                ]
+                            },
+                            "event": "minecraft:r"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                        {
+                          "on_interact": {
+                            "filters": {
+                                "all_of": [
+                                  { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dfsteve:armor_item_2"}
+                                 
+                                ]
+                            },
+                            "event": "minecraft:b"
+                          },
+                            "use_item": true,
+                            "interact_text": "更换皮肤"
+                        },
+                      {
+                        "on_interact": {
+                          "filters": {
+                              "any_of": [
+                                {
+                                  "all_of": [
+                                    { "test" :  "is_family", "subject" : "other", "value" :  "player" },
+                       {"test": "is_sneaking", "subject": "player", "operator": "equals", "value": true }
+    
+                                  ]
+                                }
+                               
+                              ]
+                          },
+                          "event": "default"
+                        },
+                          "interact_text": "摆姿势"
+                      }
+                    ]
+                },

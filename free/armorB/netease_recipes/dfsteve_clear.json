@@ -1,0 +1,30 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "dfsteve:clear"
+        },
+        "key": {
+            "B": {
+                "data": 0,
+                "item": "minecraft:string"
+            },
+            "C": {
+                "data": 0,
+                "item": "minecraft:iron_ingot"
+            }
+        },
+        "pattern": [
+            "BB",
+            "CB"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "dfsteve:armor_clear"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

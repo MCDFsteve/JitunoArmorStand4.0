@@ -1,0 +1,32 @@
+{
+    "parent": "cpu",
+    "icon": "textures/items/armor_tatakai",
+    "title": "战斗芯片",
+    "sortnum":"1",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "给盔甲架安装以后会帮忙清理怪物。请务必在安装动力马达之后再安装此芯片，否则无效。",
+            "image": "textures/items/armor_tatakai",
+            "info": "战斗芯片"
+        },
+        {
+            "type": "textPage",
+            "subtitle": "描述",
+            "content": "盔甲架不会攻击骷髅和掠夺者，原因是箭矢会瞬间让盔甲架变成掉落物"
+        },
+        {
+            "type": "textPage",
+            "subtitle": "描述",
+            "content": "由于盔甲架本身碰撞特性，怪物离盔甲架过近以后盔甲架可能会停止攻击。"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "空白芯片和一个铁剑",
+            "image": "textures/craft/armor_tatakai",
+            "info": "战斗芯片"
+        }
+    ]    
+}

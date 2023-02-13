@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "dfsteve:armor_health"
+        },
+        "key": {
+            "B": {
+                "data": 0,
+                "item": "minecraft:string"
+            },
+            "C": {
+                "data": 0,
+                "item": "minecraft:iron_ingot"
+            }
+        },
+        "pattern": [
+            " B ",
+            "BCB",
+            " B "
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "dfsteve:armor_health"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

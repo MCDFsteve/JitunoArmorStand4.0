@@ -1,0 +1,22 @@
+{
+    "parent": "items",
+    "icon": "textures/items/armor_wool",
+    "title": "填充线团",
+    "sortnum":"3",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "让盔甲架变得更大",
+            "image": "textures/items/armor_wool",
+            "info": "填充线团"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "三根线",
+            "image": "textures/craft/armor_big",
+            "info": "填充线团"
+        }
+    ]    
+}

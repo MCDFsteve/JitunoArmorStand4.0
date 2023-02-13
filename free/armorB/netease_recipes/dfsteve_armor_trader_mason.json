@@ -1,0 +1,29 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "dfsteve:armor_trader_mason"
+        },
+        "key": {
+            "B": {
+                "data": 0,
+                "item": "dfsteve:armor_cpu"
+            },
+            "C": {
+                "data": 0,
+                "item": "minecraft:emerald"
+            }
+        },
+        "pattern": [
+            "BC"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "dfsteve:armor_trader_mason"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

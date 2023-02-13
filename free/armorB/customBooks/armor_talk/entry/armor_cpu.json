@@ -1,0 +1,22 @@
+{
+    "parent": "cpu",
+    "icon": "textures/items/armor_cpu",
+    "title": "空白芯片",
+    "sortnum":"0",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "没有指定使用用途的普通芯片",
+            "image": "textures/items/armor_cpu",
+            "info": "空白芯片"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "四个铁锭和五个红石粉",
+            "image": "textures/craft/armor_cpu",
+            "info": "空白芯片"
+        }
+    ]    
+}

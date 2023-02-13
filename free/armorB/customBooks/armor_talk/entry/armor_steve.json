@@ -1,0 +1,22 @@
+{
+    "parent": "armor",
+    "icon": "textures/items/armor_steve",
+    "title": "史蒂夫盔甲架",
+    "sortnum":"0",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "默认的盔甲架皮肤，粗手臂皮肤包对着使用可以切换成对应皮肤",
+            "image": "textures/items/armor_steve",
+            "info": "史蒂夫盔甲架"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "原版盔甲架",
+            "image": "textures/craft/armor_steve",
+            "info": "史蒂夫盔甲架"
+        }
+    ]    
+}

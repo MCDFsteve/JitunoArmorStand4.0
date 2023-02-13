@@ -1,0 +1,22 @@
+{
+    "parent": "items",
+    "icon": "textures/items/armor_comehere",
+    "title": "遥控器",
+    "sortnum":"7",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "手持遥控器，可以让装载了动力马达的盔甲架跟随玩家",
+            "image": "textures/items/armor_comehere",
+            "info": "遥控器"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "两个铁锭+一个红石粉",
+            "image": "textures/craft/armor_come",
+            "info": "遥控器"
+        }
+    ]    
+}

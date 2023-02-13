@@ -1,0 +1,27 @@
+{
+    "parent": "cpu",
+    "icon": "textures/items/armor_trader",
+    "title": "交易芯片",
+    "sortnum":"2",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "给盔甲架安装以后盔甲架会具有交易能力。合成的时候可以在工作台处选择合成哪种职业。",
+            "image": "textures/items/armor_trader",
+            "info": "交易芯片"
+        },
+        {
+            "type": "textPage",
+            "subtitle": "描述",
+            "content": "具有交易能力的盔甲架可以正常给交易升级和给玩家经验值"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "空白芯片和一个绿宝石",
+            "image": "textures/craft/armor_trader",
+            "info": "交易芯片"
+        }
+    ]    
+}

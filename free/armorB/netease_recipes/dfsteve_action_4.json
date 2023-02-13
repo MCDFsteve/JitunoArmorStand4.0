@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "dfsteve:action_4"
+        },
+        "ingredients": [
+            {
+                "count": 1,
+                "data": 0,
+                "item": "dfsteve:armor_action4"
+            }
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "dfsteve:armor_action"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

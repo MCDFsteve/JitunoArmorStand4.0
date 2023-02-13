@@ -1,0 +1,22 @@
+{
+    "parent": "actor",
+    "icon": "textures/items/armor_action0",
+    "title": "带姿势的调试扳手",
+    "sortnum":"1",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "用于将盔甲架调整为设定的姿势",
+            "image": "textures/items/armor_action0",
+            "info": "带姿势的调试扳手"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "调试扳手",
+            "image": "textures/craft/armor_actor1",
+            "info": "带姿势的调试扳手"
+        }
+    ]    
+}

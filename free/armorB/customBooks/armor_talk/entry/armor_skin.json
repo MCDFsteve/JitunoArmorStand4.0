@@ -1,0 +1,22 @@
+{
+    "parent": "skin",
+    "icon": "textures/items/dfsteve_armor_item35",
+    "title": "粗手臂皮肤包",
+    "sortnum":"0",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "手臂粗细为4的皮肤包（一般是男生），图标左下角有♂符号。需要对着史蒂夫盔甲架使用来更换皮肤",
+            "image": "textures/items/dfsteve_armor_item35",
+            "info": "粗手臂皮肤包"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "纸+彩虹染料+皮革",
+            "image": "textures/craft/armor_skin",
+            "info": "粗手臂皮肤包"
+        }
+    ]    
+}

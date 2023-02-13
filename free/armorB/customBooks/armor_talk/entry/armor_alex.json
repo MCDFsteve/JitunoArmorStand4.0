@@ -1,0 +1,20 @@
+{
+    "parent": "armor",
+    "icon": "textures/items/armor_alex",
+    "title": "艾利克斯盔甲架",
+    "sortnum":"1",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "默认的盔甲架皮肤，细手臂皮肤包对着使用可以切换成对应皮肤",
+            "image": "textures/items/armor_alex",
+            "info": "艾利克斯盔甲架"
+        },
+        {
+            "type": "textPage",
+            "subtitle": "合成表",
+            "content": "和史蒂夫盔甲架一样"
+        }
+    ]    
+}

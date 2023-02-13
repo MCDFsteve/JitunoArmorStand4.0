@@ -1,0 +1,22 @@
+{
+    "parent": "items",
+    "icon": "textures/items/armor_titan",
+    "title": "巨人线团",
+    "sortnum":"34",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "让盔甲架变得最大",
+            "image": "textures/items/armor_titan",
+            "info": "巨人线团"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "填充线团III和两根线",
+            "image": "textures/craft/armor_titan",
+            "info": "巨人线团"
+        }
+    ]    
+}

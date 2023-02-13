@@ -1,0 +1,7 @@
+{
+    "title": "皮肤包",
+    "content": "用于给逼真盔甲架更换皮肤的皮肤包。\n皮肤包对着逼真盔甲架使用可以切换成对应皮肤。",
+    "icon":"textures/items/dfsteve_armor_item_1",
+    "sortnum":"1",
+    "isLocked": false
+}

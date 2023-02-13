@@ -1,0 +1,22 @@
+{
+    "parent": "items",
+    "icon": "textures/items/armor_nohand",
+    "title": "排斥电磁线圈",
+    "sortnum":"6",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "锁定一切和调试盔甲架有关的动作，包括换动作和切换皮肤，使用道具",
+            "image": "textures/items/armor_nohand",
+            "info": "排斥电磁线圈"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "三个铜锭+四个铁链",
+            "image": "textures/craft/armor_",
+            "info": "排斥电磁线圈"
+        }
+    ]    
+}

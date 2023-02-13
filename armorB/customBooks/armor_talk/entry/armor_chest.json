@@ -1,0 +1,27 @@
+{
+    "parent": "cpu",
+    "icon": "textures/items/armor_chest",
+    "title": "存储芯片",
+    "sortnum":"11",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "给盔甲架安装以后盔甲架可以存储物品（生存模式慎用，由于盔甲架特性，盔甲架被打掉以后内部物品会消失）",
+            "image": "textures/items/armor_chest",
+            "info": "存储芯片"
+        },
+        {
+            "type": "textPage",
+            "subtitle": "描述",
+            "content": "仅推荐在冒险模式地图里模拟舔包或者寄存的功能，不推荐生存模式使用"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "空白芯片和一个箱子",
+            "image": "textures/craft/armor_chest",
+            "info": "存储芯片"
+        }
+    ]    
+}

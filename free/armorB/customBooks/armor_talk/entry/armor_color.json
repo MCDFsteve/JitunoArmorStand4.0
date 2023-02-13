@@ -1,0 +1,22 @@
+{
+    "parent": "items",
+    "icon": "textures/items/armor_color",
+    "title": "彩虹染料",
+    "sortnum":"0",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "皮肤包的合成材料之一",
+            "image": "textures/items/armor_color",
+            "info": "彩虹染料"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "红绿蓝三色染料",
+            "image": "textures/craft/armor_color",
+            "info": "彩虹染料"
+        }
+    ]    
+}

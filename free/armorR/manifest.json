@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "modules": [
+    {
+      "description": "作者§a戴夫邻居史蒂夫§3.中国版版本",
+      "type": "resources",
+      "uuid": "7fa79bfa-08bf-498e-ac1f-21b0533b1632",
+      "version": [
+        4,
+        2,
+        1
+      ]
+    }
+  ],
+  "header": {
+    "description": "作者§a戴夫邻居史蒂夫§3.中国版版本",
+    "name": "§l§b逼真盔甲架4.0§dFree ",
+    "uuid": "c0a6fe5b-8618-4f10-9f99-97b0f35bcc41",
+    "version": [
+      4,
+      2,
+      22
+    ]
+  }
+}

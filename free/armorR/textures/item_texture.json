@@ -1,0 +1,438 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "dfsteve:armor_alex": {
+            "textures": "textures/items/armor_alex"
+        },
+        "dfsteve:armor_color": {
+            "textures": "textures/items/armor_color"
+        },
+        "dfsteve:armor_steve": {
+            "textures": "textures/items/armor_steve"
+        },
+        "dfsteve_armor_talk": {
+            "textures": "textures/items/armor_talk"
+        },
+        "dfsteve:armor_cut": {
+            "textures": "textures/items/armor_cut"
+        },
+        "dfsteve:armor_addcut": {
+            "textures": "textures/items/armor_addcut"
+        },
+        "dfsteve:armor_addaddcut": {
+            "textures": "textures/items/armor_addaddcut"
+        },
+        "dfsteve:armor_wool": {
+            "textures": "textures/items/armor_wool"
+        },
+        "dfsteve:armor_addwool": {
+            "textures": "textures/items/armor_addwool"
+        },
+        "dfsteve:armor_addaddwool": {
+            "textures": "textures/items/armor_addaddwool"
+        },
+        "dfsteve:armor_addaddaddwool": {
+            "textures": "textures/items/armor_addaddaddwool"
+        },
+        "dfsteve:armor_titan": {
+            "textures": "textures/items/armor_titan"
+        },
+        "dfsteve:armor_clear": {
+            "textures": "textures/items/armor_clear"
+        },
+        "dfsteve:armor_motor": {
+            "textures": "textures/items/armor_motor"
+        },
+        "dfsteve:armor_comehere": {
+            "textures": "textures/items/armor_comehere"
+        },
+        "dfsteve:armor_cpu": {
+            "textures": "textures/items/armor_cpu"
+        },
+        "dfsteve:armor_chest": {
+            "textures": "textures/items/armor_chest"
+        },
+        "dfsteve:armor_tatakai": {
+            "textures": "textures/items/armor_tatakai"
+        },
+        "dfsteve:armor_shoot": {
+            "textures": "textures/items/armor_shoot"
+        },
+        "dfsteve:armor_wild": {
+            "textures": "textures/items/armor_wild"
+        },
+        "dfsteve:armor_trader_farmer": {
+            "textures": "textures/items/armor_trader"
+        },
+        "dfsteve:armor_trader_fisherman": {
+            "textures": "textures/items/armor_trader"
+        },
+        "dfsteve:armor_trader_shepherd": {
+            "textures": "textures/items/armor_trader"
+        },
+        "dfsteve:armor_trader_fletcher": {
+            "textures": "textures/items/armor_trader"
+        },
+        "dfsteve:armor_trader_librarian": {
+            "textures": "textures/items/armor_trader"
+        },
+        "dfsteve:armor_trader_cartographer": {
+            "textures": "textures/items/armor_trader"
+        },
+        "dfsteve:armor_trader_cleric": {
+            "textures": "textures/items/armor_trader"
+        },
+        "dfsteve:armor_trader_armorer": {
+            "textures": "textures/items/armor_trader"
+        },
+        "dfsteve:armor_trader_weaponsmith": {
+            "textures": "textures/items/armor_trader"
+        },
+        "dfsteve:armor_trader_toolsmith": {
+            "textures": "textures/items/armor_trader"
+        },
+        "dfsteve:armor_trader_butcher": {
+            "textures": "textures/items/armor_trader"
+        },
+        "dfsteve:armor_trader_leatherworker": {
+            "textures": "textures/items/armor_trader"
+        },
+        "dfsteve:armor_trader_mason": {
+            "textures": "textures/items/armor_trader"
+        },
+        "dfsteve:armor_trader_wandering_trader": {
+            "textures": "textures/items/armor_trader"
+        },
+        "dfsteve_armor_nohand": {
+            "textures": "textures/items/armor_nohand"
+        },
+        "dfsteve:armor_theworld": {
+            "textures": "textures/items/armor_theworld"
+        },
+        "dfsteve_armor_health": {
+            "textures": "textures/items/armor_health"
+        },
+          "dfsteve_armor_unhealth": {
+            "textures": "textures/items/armor_unhealth"
+        },
+        "dfsteve_armor_action": {
+            "textures": "textures/items/armor_action"
+        },
+          "dfsteve_armor_action0": {
+            "textures": "textures/items/armor_action0"
+        },
+        "dfsteve_armor_action3": {
+          "textures": "textures/items/armor_action0"
+      },
+      "dfsteve_armor_action4": {
+          "textures": "textures/items/armor_action0"
+      },
+      "dfsteve_armor_action5": {
+          "textures": "textures/items/armor_action0"
+      },
+      "dfsteve_armor_action6": {
+          "textures": "textures/items/armor_action0"
+      },
+      "dfsteve_armor_action7": {
+          "textures": "textures/items/armor_action0"
+      },
+        "dfsteve_armor_action8": {
+            "textures": "textures/items/armor_action0"
+        },
+        "dfsteve_armor_action10": {
+            "textures": "textures/items/armor_action0"
+        },
+        "dfsteve_armor_action11": {
+            "textures": "textures/items/armor_action0"
+        },
+        "dfsteve_armor_action12": {
+            "textures": "textures/items/armor_action0"
+        },
+        "dfsteve_armor_action13": {
+            "textures": "textures/items/armor_action0"
+        },
+        "dfsteve_armor_action14": {
+            "textures": "textures/items/armor_action0"
+        },
+        "dfsteve_armor_action15": {
+            "textures": "textures/items/armor_action0"
+        },
+        "dfsteve_armor_action16": {
+            "textures": "textures/items/armor_action0"
+        },
+        "dfsteve_armor_action17": {
+            "textures": "textures/items/armor_actionno"
+        },
+        "dfsteve_armor_action18": {
+            "textures": "textures/items/armor_actionno"
+        },
+        "dfsteve_armor_action19": {
+            "textures": "textures/items/armor_actionno"
+        },
+        "dfsteve_armor_action20": {
+            "textures": "textures/items/armor_actionno"
+        },
+        "dfsteve_armor_action21": {
+            "textures": "textures/items/armor_actionno"
+        },
+        "dfsteve_armor_action22": {
+            "textures": "textures/items/armor_actionno"
+        },
+        "dfsteve_armor_action23": {
+            "textures": "textures/items/armor_actionno"
+        },
+        "dfsteve_armor_action24": {
+            "textures": "textures/items/armor_actionno"
+        },
+        "dfsteve_armor_action25": {
+            "textures": "textures/items/armor_actionno"
+        },
+        "dfsteve_armor_action26": {
+            "textures": "textures/items/armor_actionno"
+        },
+        "dfsteve_armor_action27": {
+            "textures": "textures/items/armor_actionno"
+        },
+        "dfsteve_armor_action28": {
+            "textures": "textures/items/armor_actionno"
+        },
+        "dfsteve_armor_action29": {
+            "textures": "textures/items/armor_actionno"
+        },
+        "dfsteve_armor_action30": {
+            "textures": "textures/items/armor_actionno"
+        },
+        "dfsteve_armor_item1": {
+            "textures": "textures/items/dfsteve_armor_item1"
+        },
+        "dfsteve_armor_item10": {
+            "textures": "textures/items/dfsteve_armor_item10"
+        },
+        "dfsteve_armor_item11": {
+            "textures": "textures/items/dfsteve_armor_item11"
+        },
+        "dfsteve_armor_item12": {
+            "textures": "textures/items/dfsteve_armor_item12"
+        },
+        "dfsteve_armor_item13": {
+            "textures": "textures/items/dfsteve_armor_item13"
+        },
+        "dfsteve_armor_item14": {
+            "textures": "textures/items/dfsteve_armor_item14"
+        },
+        "dfsteve_armor_item15": {
+            "textures": "textures/items/dfsteve_armor_item15"
+        },
+        "dfsteve_armor_item16": {
+            "textures": "textures/items/dfsteve_armor_item16"
+        },
+        "dfsteve_armor_item17": {
+            "textures": "textures/items/dfsteve_armor_item17"
+        },
+        "dfsteve_armor_item18": {
+            "textures": "textures/items/dfsteve_armor_item18"
+        },
+        "dfsteve_armor_item19": {
+            "textures": "textures/items/dfsteve_armor_item19"
+        },
+        "dfsteve_armor_item20": {
+            "textures": "textures/items/dfsteve_armor_item20"
+        },
+        "dfsteve_armor_item21": {
+            "textures": "textures/items/dfsteve_armor_item21"
+        },
+        "dfsteve_armor_item22": {
+            "textures": "textures/items/dfsteve_armor_item22"
+        },
+        "dfsteve_armor_item23": {
+            "textures": "textures/items/dfsteve_armor_item23"
+        },
+        "dfsteve_armor_item24": {
+            "textures": "textures/items/dfsteve_armor_item24"
+        },
+        "dfsteve_armor_item25": {
+            "textures": "textures/items/dfsteve_armor_item25"
+        },
+        "dfsteve_armor_item26": {
+            "textures": "textures/items/dfsteve_armor_item26"
+        },
+        "dfsteve_armor_item27": {
+            "textures": "textures/items/dfsteve_armor_item27"
+        },
+        "dfsteve_armor_item28": {
+            "textures": "textures/items/dfsteve_armor_item28"
+        },
+        "dfsteve_armor_item29": {
+            "textures": "textures/items/dfsteve_armor_item29"
+        },
+        "dfsteve_armor_item30": {
+            "textures": "textures/items/dfsteve_armor_item30"
+        },
+        "dfsteve_armor_item31": {
+            "textures": "textures/items/dfsteve_armor_item31"
+        },
+        "dfsteve_armor_item32": {
+            "textures": "textures/items/dfsteve_armor_item32"
+        },
+        "dfsteve_armor_item33": {
+            "textures": "textures/items/dfsteve_armor_item33"
+        },
+        "dfsteve_armor_item34": {
+            "textures": "textures/items/dfsteve_armor_item34"
+        },
+        "dfsteve_armor_item35": {
+            "textures": "textures/items/dfsteve_armor_item35"
+        },
+        "dfsteve_armor_item36": {
+            "textures": "textures/items/dfsteve_armor_item36"
+        },
+        "dfsteve_armor_item37": {
+            "textures": "textures/items/dfsteve_armor_item37"
+        },
+        "dfsteve_armor_item38": {
+            "textures": "textures/items/dfsteve_armor_item38"
+        },
+        "dfsteve_armor_item2": {
+            "textures": "textures/items/dfsteve_armor_item2"
+        },
+        "dfsteve_armor_item3": {
+            "textures": "textures/items/dfsteve_armor_item3"
+        },
+        "dfsteve_armor_item4": {
+            "textures": "textures/items/dfsteve_armor_item4"
+        },
+        "dfsteve_armor_item5": {
+            "textures": "textures/items/dfsteve_armor_item5"
+        },
+        "dfsteve_armor_item6": {
+            "textures": "textures/items/dfsteve_armor_item6"
+        },
+        "dfsteve_armor_item7": {
+            "textures": "textures/items/dfsteve_armor_item7"
+        },
+        "dfsteve_armor_item8": {
+            "textures": "textures/items/dfsteve_armor_item8"
+        },
+        "dfsteve_armor_item9": {
+            "textures": "textures/items/dfsteve_armor_item9"
+        },
+        "dfsteve_armor_item_1": {
+            "textures": "textures/items/dfsteve_armor_item_1"
+        },
+        "dfsteve_armor_item_10": {
+            "textures": "textures/items/dfsteve_armor_item_10"
+        },
+        "dfsteve_armor_item_11": {
+            "textures": "textures/items/dfsteve_armor_item_11"
+        },
+        "dfsteve_armor_item_12": {
+            "textures": "textures/items/dfsteve_armor_item_12"
+        },
+        "dfsteve_armor_item_13": {
+            "textures": "textures/items/dfsteve_armor_item_13"
+        },
+        "dfsteve_armor_item_14": {
+            "textures": "textures/items/dfsteve_armor_item_14"
+        },
+        "dfsteve_armor_item_15": {
+            "textures": "textures/items/dfsteve_armor_item_15"
+        },
+        "dfsteve_armor_item_16": {
+            "textures": "textures/items/dfsteve_armor_item_16"
+        },
+        "dfsteve_armor_item_17": {
+            "textures": "textures/items/dfsteve_armor_item_17"
+        },
+        "dfsteve_armor_item_18": {
+            "textures": "textures/items/dfsteve_armor_item_18"
+        },
+        "dfsteve_armor_item_19": {
+            "textures": "textures/items/dfsteve_armor_item_19"
+        },
+        "dfsteve_armor_item_20": {
+            "textures": "textures/items/dfsteve_armor_item_20"
+        },
+        "dfsteve_armor_item_21": {
+            "textures": "textures/items/dfsteve_armor_item_21"
+        },
+        "dfsteve_armor_item_22": {
+            "textures": "textures/items/dfsteve_armor_item_22"
+        },
+        "dfsteve_armor_item_23": {
+            "textures": "textures/items/dfsteve_armor_item_23"
+        },
+        "dfsteve_armor_item_24": {
+            "textures": "textures/items/dfsteve_armor_item_24"
+        },
+        "dfsteve_armor_item_25": {
+            "textures": "textures/items/dfsteve_armor_item_25"
+        },
+        "dfsteve_armor_item_26": {
+            "textures": "textures/items/dfsteve_armor_item_26"
+        },
+        "dfsteve_armor_item_27": {
+            "textures": "textures/items/dfsteve_armor_item_27"
+        },
+        "dfsteve_armor_item_28": {
+            "textures": "textures/items/dfsteve_armor_item_28"
+        },
+        "dfsteve_armor_item_29": {
+            "textures": "textures/items/dfsteve_armor_item_29"
+        },
+        "dfsteve_armor_item_30": {
+            "textures": "textures/items/dfsteve_armor_item_30"
+        },
+        "dfsteve_armor_item_31": {
+            "textures": "textures/items/dfsteve_armor_item_31"
+        },
+        "dfsteve_armor_item_32": {
+            "textures": "textures/items/dfsteve_armor_item_32"
+        },
+        "dfsteve_armor_item_33": {
+            "textures": "textures/items/dfsteve_armor_item_33"
+        },
+        "dfsteve_armor_item_34": {
+            "textures": "textures/items/dfsteve_armor_item_34"
+        },
+        "dfsteve_armor_item_35": {
+            "textures": "textures/items/dfsteve_armor_item_35"
+        },
+        "dfsteve_armor_item_36": {
+            "textures": "textures/items/dfsteve_armor_item_36"
+        },
+        "dfsteve_armor_item_37": {
+            "textures": "textures/items/dfsteve_armor_item_37"
+        },
+        "dfsteve_armor_item_38": {
+            "textures": "textures/items/dfsteve_armor_item_38"
+        },
+        "dfsteve_armor_item_39": {
+            "textures": "textures/items/dfsteve_armor_item_39"
+        },
+        "dfsteve_armor_item_2": {
+            "textures": "textures/items/dfsteve_armor_item_2"
+        },
+        "dfsteve_armor_item_3": {
+            "textures": "textures/items/dfsteve_armor_item_3"
+        },
+        "dfsteve_armor_item_4": {
+            "textures": "textures/items/dfsteve_armor_item_4"
+        },
+        "dfsteve_armor_item_5": {
+            "textures": "textures/items/dfsteve_armor_item_5"
+        },
+        "dfsteve_armor_item_6": {
+            "textures": "textures/items/dfsteve_armor_item_6"
+        },
+        "dfsteve_armor_item_7": {
+            "textures": "textures/items/dfsteve_armor_item_7"
+        },
+        "dfsteve_armor_item_8": {
+            "textures": "textures/items/dfsteve_armor_item_8"
+        },
+        "dfsteve_armor_item_9": {
+            "textures": "textures/items/dfsteve_armor_item_9"
+        }
+    },
+    "texture_name": "atlas.items"
+}

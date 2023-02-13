@@ -1,0 +1,22 @@
+{
+    "parent": "items",
+    "icon": "textures/items/armor_addwool",
+    "title": "填充线团I",
+    "sortnum":"31",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "让盔甲架变得更大+1",
+            "image": "textures/items/armor_addwool",
+            "info": "填充线团I"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "填充线团和两根线",
+            "image": "textures/craft/armor_wool2",
+            "info": "填充线团I"
+        }
+    ]    
+}

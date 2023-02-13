@@ -1,0 +1,94 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+      "description": {
+        "identifier": "dfsteve:test",
+        "materials": {
+          "default": "drowned"
+        },
+        "textures": {
+            "default": "textures/entity/armor_stand/steve/armor_steve",
+            "a": "textures/entity/armor_stand/steve/armor_steve_1",
+            "b": "textures/entity/armor_stand/steve/armor_steve_2",
+            "c": "textures/entity/armor_stand/steve/armor_steve_3",
+            "d": "textures/entity/armor_stand/steve/armor_steve_4",
+            "e": "textures/entity/armor_stand/steve/armor_steve_5",
+            "f": "textures/entity/armor_stand/steve/armor_steve_6",
+            "g": "textures/entity/armor_stand/steve/armor_steve_7",
+            "h": "textures/entity/armor_stand/steve/armor_steve_8",
+            "i": "textures/entity/armor_stand/steve/armor_steve_9",
+            "j": "textures/entity/armor_stand/steve/armor_steve_10",
+            "k": "textures/entity/armor_stand/steve/armor_steve_11",
+            "l": "textures/entity/armor_stand/steve/armor_steve_12",
+            "m": "textures/entity/armor_stand/steve/armor_steve_13",
+            "n": "textures/entity/armor_stand/steve/armor_steve_14",
+            "o": "textures/entity/armor_stand/steve/armor_steve_15",
+            "p": "textures/entity/armor_stand/steve/armor_steve_16",
+            "q": "textures/entity/armor_stand/steve/armor_steve_17",
+            "r": "textures/entity/armor_stand/steve/armor_steve_18",
+            "s": "textures/entity/armor_stand/steve/armor_steve_19",
+            "t": "textures/entity/armor_stand/steve/armor_steve_20",
+            "u": "textures/entity/armor_stand/steve/armor_steve_21",
+            "v": "textures/entity/armor_stand/armor_steve_22",
+            "w": "textures/entity/armor_stand/armor_steve_23",
+            "x": "textures/entity/armor_stand/steve/armor_steve_24",
+            "y": "textures/entity/armor_stand/steve/armor_steve_25",
+            "z": "textures/entity/armor_stand/steve/armor_steve_26",
+            "za": "textures/entity/armor_stand/steve/armor_steve_27",
+            "zb": "textures/entity/armor_stand/steve/armor_steve_28",
+            "zc": "textures/entity/armor_stand/steve/armor_steve_29",
+            "zd": "textures/entity/armor_stand/steve/armor_steve_30"
+          },
+          "animations": {
+            "default_pose": "animation.dfsteve_armor.default_pose",
+            "kawaii": "animation.dfsteve_armor.kawaii",
+            "solemn_pose": "animation.dfsteve_armor.solemn_pose",
+            "athena_pose": "animation.dfsteve_armor.athena_pose",
+            "brandish_pose": "animation.dfsteve_armor.brandish_pose",
+            "honor_pose": "animation.dfsteve_armor.honor_pose",
+            "entertain_pose": "animation.dfsteve_armor.entertain_pose",
+            "salute_pose": "animation.dfsteve_armor.salute_pose",
+            "riposte_pose": "animation.dfsteve_armor.riposte_pose",
+            "zombie_pose": "animation.dfsteve_armor.zombie_pose",
+            "cancan_a_pose": "animation.dfsteve_armor.cancan_a_pose",
+            "cancan_b_pose": "animation.dfsteve_armor.cancan_b_pose",
+            "hero_pose": "animation.dfsteve_armor.hero_pose",
+            "wiggle": "animation.dfsteve_armor.wiggle",
+            "qitao": "animation.dfsteve_armor.qitao_pose",
+            "hello": "animation.dfsteve_armor.hello_pose",
+            "jojo": "animation.dfsteve_armor.jojo_pose",
+            "dontstop": "animation.dfsteve_armor.dontstop_pose",
+            "bata": "animation.dfsteve_armor.bata_pose",
+            "sneak": "animation.dfsteve_armor.sneak_pose",
+            "sleep": "animation.dfsteve_armor.sleep_pose",
+            "sleep2": "animation.dfsteve_armor.sleep2_pose",
+            "houbunjump": "animation.dfsteve_armor.houbunjump_pose",
+            "controller.pose": "controller.animation.dfsteve_armor.pose",
+            "controller.wiggling": "controller.animation.dfsteve_armor.wiggle",
+            "move": "animation.dfsteve_armor.move",
+            "controller.armor_move": "controller.animation.dfsteve_armor.move",
+            "theworld": "controller.animation.theworld",
+            "armor_theworld": "animation.humanoid.move",
+            "stop": "animation.dfsteve_armor.stop"
+          },
+          "scripts": {
+            "initialize": [
+              "variable.armor_stand.pose_index = 0;",
+              "variable.armor_stand.hurt_time = 0;"
+            ],
+            "animate": [
+              "controller.pose",
+              "controller.wiggling",
+              "controller.armor_move",
+              "theworld"
+            ]
+          },
+          "geometry": {
+            "default": "geometry.armor_steve",
+              "cape": "geometry.cape"
+          },
+          "render_controllers": [ "controller.render.armor_steve" ],
+          "enable_attachables": true
+        }
+      }
+    }

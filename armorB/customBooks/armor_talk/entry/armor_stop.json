@@ -1,0 +1,29 @@
+{
+    "parent": "items",
+    "icon": "textures/items/armor_theworld",
+    "title": "固化喷雾",
+    "sortnum":"5",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "锁定盔甲架的动作，锁定以后无法再更改动作",
+            "image": "textures/items/armor_theworld",
+            "info": "固化喷雾"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方1",
+            "content": "鸡蛋+粘液球+玻璃瓶",
+            "image": "textures/craft/armor_stop1",
+            "info": "固化喷雾"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方2",
+            "content": "鸡蛋+蜜脾+玻璃瓶",
+            "image": "textures/craft/armor_stop2",
+            "info": "固化喷雾"
+        }
+    ]    
+}

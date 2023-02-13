@@ -1,0 +1,16 @@
+{
+    "item": "dfsteve:armor_talk",
+    "title1": "逼真盔甲架4.0",
+    "title2": "游玩指南",
+    "content": "本指南将带你了解逼真盔甲架的使用方法。\n同时包含一些合成表和皮肤包，道具的使用。",
+    "titleArea":{
+        "offset": [-10,0],
+        "textSize1": 9,
+        "textSize2":8,         
+        "padding": 1           
+    },
+    "pageConfig": {
+        "subtitle":"游玩指南"
+    }
+
+}

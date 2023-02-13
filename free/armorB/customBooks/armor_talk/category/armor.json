@@ -1,0 +1,7 @@
+{
+    "title": "逼真盔甲架",
+    "content": "默认的两种盔甲架形式。\n可以将原版盔甲架通过工作台合成来得到。",
+    "icon":"textures/items/armor_steve",
+    "sortnum":"0",
+    "isLocked": false
+}

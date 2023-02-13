@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "dfsteve:armor_unhealth"
+        },
+        "key": {
+            "B": {
+                "data": 0,
+                "item": "minecraft:gold_ingot"
+            },
+            "C": {
+                "data": 0,
+                "item": "minecraft:string"
+            }
+        },
+        "pattern": [
+            " C ",
+            "CBC",
+            " C "
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "dfsteve:armor_unhealth"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

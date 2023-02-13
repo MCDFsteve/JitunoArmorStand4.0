@@ -1,0 +1,7 @@
+{
+    "title": "芯片组",
+    "content": "给盔甲架提供各种强大功能的芯片。",
+    "icon":"textures/items/armor_cpu",
+    "sortnum":"5",
+    "isLocked": false
+}

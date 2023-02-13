@@ -1,0 +1,22 @@
+{
+    "parent": "cpu",
+    "icon": "textures/items/armor_wild",
+    "title": "狂暴芯片",
+    "sortnum":"3",
+    "pages":[
+        {
+            "type": "imagePage",
+            "subtitle": "描述",
+            "content": "给已经装备过战斗芯片的盔甲架使用会大幅提高盔甲架的移速和攻击伤害。对安装射击芯片的盔甲架无效",
+            "image": "textures/items/armor_wild",
+            "info": "狂暴芯片"
+        },
+        {
+            "type": "imagePage",
+            "subtitle": "合成配方",
+            "content": "空白芯片和四个烈焰粉",
+            "image": "textures/craft/armor_wild",
+            "info": "狂暴芯片"
+        }
+    ]    
+}

@@ -1,0 +1,7 @@
+{
+    "title": "其他道具",
+    "content": "用于给逼真盔甲架调试的道具。\n大部分FREE版不可用，PRO版独占。",
+    "icon":"textures/items/armor_motor",
+    "sortnum":"3",
+    "isLocked": false
+}
